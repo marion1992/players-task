@@ -1,0 +1,8 @@
+Document if you had infinite time.
+
+1.Create OpenAPI Swagger file for the two REST endpoints.
+2.Generate all REST API interfaces using the OpenAPI Swagger generator plugin.
+3.Add an authorization token to the request headers to enhance security.
+4.To improve performance, I will cache the CSV content for a defined period and update the cache whenever new data is added via code.
+5.I will also create a new REST endpoint for adding new players, which will help us validate and manage the cache as part of step 4.
+
